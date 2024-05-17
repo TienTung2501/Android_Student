@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_sort_total_score_asc"
+        android:title="Tổng điểm tăng dần" />
+    <item
+        android:id="@+id/action_sort_total_score_desc"
+        android:title="Tổng điểm giảm dần" />
+    <item
+        android:id="@+id/action_sort_student_id_asc"
+        android:title="Số báo danh tăng dần" />
+    <item
+        android:id="@+id/action_sort_student_id_desc"
+        android:title="Số báo danh giảm dần" />
+    <item
+        android:id="@+id/action_sort_average_score_asc"
+        android:title="Điểm trung bình tăng dần" />
+    <item
+        android:id="@+id/action_sort_average_score_desc"
+        android:title="Điểm trung bình giảm dần" />
+</menu>
